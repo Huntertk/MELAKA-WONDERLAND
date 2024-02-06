@@ -1,0 +1,33 @@
+{
+    "id": "2cc76aef-9009-4031-a658-bec2315d9996",
+    "image": [
+        "https://res.cloudinary.com/drrkaak40/image/upload/v1707216096/Malaysia%20Experience/Melaka%20Wonderland%20Waterpark/melaka-wonderland_swk8ln.jpg",
+        "https://res.cloudinary.com/drrkaak40/image/upload/v1707216097/Malaysia%20Experience/Melaka%20Wonderland%20Waterpark/MelakaWonderlandWaterThemeParkTicket-KlookMalaysia_eevdtb.jpg",
+        "https://res.cloudinary.com/drrkaak40/image/upload/v1707216099/Malaysia%20Experience/Melaka%20Wonderland%20Waterpark/Slide-2_m9lmz9.jpg"
+    ],
+    "title": "MELAKA WONDERLAND WATERPARK",
+    "desc": ": Water theme park in Ayer Keroh, Melaka, Malaysia, with exciting slides, a wave pool, and family-friendly attractions, offering a refreshing escape and enjoyable water activities.",
+    "type": "bookTypeOne",
+    "preference": [
+        {
+            "title": "Malaysian",
+            "price": {
+                "adult": 42,
+                "child": 36
+            },
+            "details": [
+                "Valid only for Malaysian Citizens"
+            ]
+        },
+        {
+            "title": "Non-Malaysian",
+            "price": {
+                "adult": 42,
+                "child": 36
+            },
+            "details": [
+                "Valid only for Non Malaysian Citizens"
+            ]
+        }
+    ]
+}
