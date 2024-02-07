@@ -16,7 +16,7 @@ const HomeWhyVisit = () => {
                     </p>
                     <p>
                         <img src="https://res.cloudinary.com/drrkaak40/image/upload/v1707216097/Malaysia%20Experience/Melaka%20Wonderland%20Waterpark/fit_xtwhui.jpg" alt="images" /><br />
-                        <span>Thrill Seekers</span>: The park draws guests who like heart-pounding experiences with a variety of exhilarating water slides and attractions.<br/>
+                        <span>Thrill Seekers</span>The park draws guests who like heart-pounding experiences with a variety of exhilarating water slides and attractions.<br/>
                     </p>
                     <p>
                         <img src="https://res.cloudinary.com/drrkaak40/image/upload/v1707216097/Malaysia%20Experience/Melaka%20Wonderland%20Waterpark/MW1_brg2hr.webp" alt="IMAGE" /><br />

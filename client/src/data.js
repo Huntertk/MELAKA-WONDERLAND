@@ -40,77 +40,6 @@ export const cardData = [
     
 ]
 
-export const timeSlots = {
-    weekend:[
-        {
-            name:"Trip 1",
-            timeSlot:"10:00 am - 10:45 am"
-        },
-        {
-            name:"Trip 2",
-            timeSlot:"11:00 am - 11:45 am"
-        },
-        {
-            name:"Trip 3",
-            timeSlot:"12:00 am - 12:45 pm"
-        },
-        {
-            name:"Trip 4",
-            timeSlot:"01:15 pm - 02:00 pm"
-        },
-        {
-            name:"Trip 5",
-            timeSlot:"03:45 pm - 04:30 pm"
-        },
-        {
-            name:"Trip 6",
-            timeSlot:"05:00 pm - 05:45 pm"
-        },
-        {
-            name:"Trip 7",
-            timeSlot:"06:00 pm - 06:45 pm"
-        },
-        {
-            name:"Trip 8",
-            timeSlot:"06:45 pm - 07:30 pm"
-        },
-        {
-            name:"Trip 9",
-            timeSlot:"08:00 pm - 08:45 pm"
-        },
-    ],
-    weekday:[
-        {
-            name:"Trip 2",
-            timeSlot:"11:00 am - 11:45 am"
-        },
-        {
-            name:"Trip 3",
-            timeSlot:"12:00 am - 12:45 pm"
-        },
-        {
-            name:"Trip 4",
-            timeSlot:"01:15 pm - 02:00 pm"
-        },
-        {
-            name:"Trip 5",
-            timeSlot:"03:45 pm - 04:30 pm"
-        },
-        {
-            name:"Trip 6",
-            timeSlot:"05:00 pm - 05:45 pm"
-        },
-        {
-            name:"Trip 7",
-            timeSlot:"06:00 pm - 06:45 pm"
-        },
-        {
-            name:"Trip 8",
-            timeSlot:"06:45 pm - 07:30 pm"
-        },
-    ]
-}
-
 export const preferenceData = [
     
     {
@@ -252,11 +181,11 @@ export const homeFAQ = [
     {
         id: uuidv4(),
         ques:"Can I bring my own food inside the park ?",
-        ans:": No, outside food and drinks are not allowed inside the park."
+        ans:"No, outside food and drinks are not allowed inside the park."
     },
     {
         id: uuidv4(),
-        ques:": If I don't play, can I just enter with my kids without ticket?",
+        ques:"If I don't play, can I just enter with my kids without ticket?",
         ans:"No. You need to have an entrance ticket in order to enter the park."
     },
 ]
@@ -363,8 +292,4 @@ export const termsandconditiondata = [
 ]
 
 
-export const publicHolidays = [
-    "January 25th, 2024",
-    "February 1st, 2024",
-    "February 12th, 2024",
-]
+export const publicHolidays = []
