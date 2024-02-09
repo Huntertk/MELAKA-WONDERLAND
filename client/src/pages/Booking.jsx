@@ -44,7 +44,9 @@ const Booking = () => {
                 totalAmount,
                 bookingTitle,
                 bookingType: type,
-                responseClientUrl
+                responseClientUrl,
+                pref,
+                websiteName: "MELAKA WONDERLAND WATERPARK"
             })
             const response = res.data;
             const {data} = await axios.get('/api/v1/booking/totalbooking')
