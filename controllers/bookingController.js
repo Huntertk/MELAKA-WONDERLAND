@@ -49,8 +49,8 @@ export const createBooking = async (req, res) => {
                 },
             ],
             mode: 'payment',
-            success_url: `https://lostworldoftambun.malaysia-experience.com/${responseClientUrl}`,
-            cancel_url: 'https://lostworldoftambun.malaysia-experience.com/',
+            success_url: `https://melaka-wonderland.onrender.com/${responseClientUrl}`,
+            cancel_url: 'https://melaka-wonderland.onrender.com/',
             payment_intent_data: {
                 setup_future_usage: 'off_session',
                 description: 'Booking payment',
